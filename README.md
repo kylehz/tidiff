@@ -37,6 +37,6 @@ pyinstaller -Fw tidbdiff.py
 ### binary file
 you can download binary file and use it immediately
 
-[centos7](https://github.com/kylehz/tidbdiff/raw/master/dist/tidbdiff_centos7)
+[centos7](https://github.com/kylehz/tidiff/releases/download/0.1/tidiff_centos7)
 
-[macosx10.12](https://github.com/kylehz/tidbdiff/raw/master/dist/tidbdiff_macosx_10_12)
+[macosx10.12](https://github.com/kylehz/tidiff/releases/download/0.1/tidiff_macosx_10_12)
